@@ -98,6 +98,20 @@ docker compose down
 
 ## Скріншоти
 
+![1](/hello-docker-screen/1.jpg)
+
+
+![2](/hello-docker-screen/2.jpg)
+
+
+![3](/hello-docker-screen/3.jpg)
+
+
+![4](/hello-docker-screen/4.jpg)
+
+
+![5](/hello-docker-screen/5.jpg)
+
 ## Висновки
 
 - У результаті виконання роботи я:
